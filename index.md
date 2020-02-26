@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## LiveFlight Connect
 
-You can use the [editor on GitHub](https://github.com/LiveFlightApp/lfc-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+LiveFlight Connect lets you control Infinite Flight from a Windows PC or a Mac. It uses the Infinite Flight Connect API, and supports interactions from joysticks and keyboards.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Deprecation
 
-### Markdown
+**As of 26th February 2020, LiveFlight Connect is no longer officially supported.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The apps are still available for download and the source code is available, however, no official updates are planned, nor will support be provided for any issues.
 
-```markdown
-Syntax highlighted code block
+## Download
 
-# Header 1
-## Header 2
-### Header 3
+ - [Download installer for Windows](https://github.com/LiveFlightApp/Connect-Windows/releases/download/1.0.0.0/LiveFlight-Connect-Setup.zip) (press "Run anyway" for SmartScreen and allow on all networks)
+ - [Mac App Store](https://itunes.apple.com/us/app/liveflight-connect/id1078754162?ls=1&mt=12)
 
-- Bulleted
-- List
+## Instructions
 
-1. Numbered
-2. List
+See http://help.liveflightapp.com/connect/setup-guide
 
-**Bold** and _Italic_ and `Code` text
+## FAQ
 
-[Link](url) and ![Image](src)
-```
+1. My LiveFlight Connect isn't picking up my device.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiveFlightApp/lfc-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - Ensure your firewall allows LiveFlight Connect to use private and public connections (on Windows). See: https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/
+  - Ensure Infinite Flight Connect is enabled in Infinite Flight Settings.
+  - Check your antivirus or network isn't blocking ports 10111 or 15000.
+  
+ 2. My joystick isn't detected.
+ 
+  - The Thrustmaster T.Flight Hotas X and the Logitech Extreme 3D Pro are the only joysticks that have been tested. Use others at your own risk.
+  
+ 3. Why was this software deprecated?
+ 
+  - LiveFlight Connect was built in 2015 as a side project to test the new Infinite Flight Connect API. After 4 years of supporting the open-source project with no external contributions, unfortunately, I didn't have the time to continually update or provide tech support.
