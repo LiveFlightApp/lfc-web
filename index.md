@@ -1,4 +1,4 @@
-## LiveFlight Connect
+# LiveFlight Connect
 
 LiveFlight Connect lets you control Infinite Flight from a Windows PC or a Mac. It uses the Infinite Flight Connect API, and supports interactions from joysticks and keyboards.
 
@@ -15,20 +15,20 @@ The apps are still available for download and the source code is available, howe
 
 ## Instructions
 
-See http://help.liveflightapp.com/connect/setup-guide
+See [Setup Guide](http://help.liveflightapp.com/connect/setup-guide)
 
 ## FAQ
 
 1. My LiveFlight Connect isn't picking up my device.
 
- - Ensure your firewall allows LiveFlight Connect to use private and public connections (on Windows). See: https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/
-  - Ensure Infinite Flight Connect is enabled in Infinite Flight Settings.
-  - Check your antivirus or network isn't blocking ports 10111 or 15000.
+   - Ensure your firewall allows LiveFlight Connect to use private and public connections (on Windows). See: [HowToGeek](https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/)
+    - Ensure Infinite Flight Connect is enabled in Infinite Flight Settings.
+    - Check your antivirus or network isn't blocking ports 10111 or 15000.
   
- 2. My joystick isn't detected.
+2. My joystick isn't detected.
  
-  - The Thrustmaster T.Flight Hotas X and the Logitech Extreme 3D Pro are the only joysticks that have been tested. Use others at your own risk.
+    The Thrustmaster T.Flight Hotas X and the Logitech Extreme 3D Pro are the only joysticks that have been tested. Use others at your own risk.
   
- 3. Why was this software deprecated?
+3. Why was this software deprecated?
  
-  - LiveFlight Connect was built in 2015 as a side project to test the new Infinite Flight Connect API. After 4 years of supporting the open-source project with no external contributions, unfortunately, I didn't have the time to continually update or provide tech support.
+    LiveFlight Connect was built in 2015 as a side project to test the new Infinite Flight Connect API. After 4 years of supporting the open-source project with no external contributions, unfortunately, I didn't have the time to continually update or provide tech support.
