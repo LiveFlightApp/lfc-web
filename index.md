@@ -1,7 +1,3 @@
-# LiveFlight Connect
-
-LiveFlight Connect lets you control Infinite Flight from a Windows PC or a Mac. It uses the Infinite Flight Connect API, and supports interactions from joysticks and keyboards.
-
 ## Deprecation
 
 **As of 26th February 2020, LiveFlight Connect is no longer officially supported.**
