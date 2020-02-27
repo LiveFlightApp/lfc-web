@@ -11,7 +11,15 @@ The apps are still available for download and the source code is available, howe
 
 ## Instructions
 
-See [Setup Guide](http://help.liveflightapp.com/connect/setup-guide)
+1. Go to Settings in Infinite Flight (top left corner), scroll to the bottom and enable Infinite Flight Connect.
+
+2. Open LiveFlight Connect - if both devices are on the same network and Connect is enabled, it should quickly say “Connected!”.
+
+3. In Infinite Flight, go to Settings, followed by Controls (fifth tab).
+
+4. Tap "Use Network Joystick"
+
+    Alternatively, assign each flight control an axis by tapping on the corresponding button under Key/Axis (move the relevant axis to assign it), and assign buttons under the Commands tab (press the relevant button to assign it).
 
 ## FAQ
 
