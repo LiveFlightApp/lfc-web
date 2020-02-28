@@ -6,7 +6,7 @@ The apps are still available for download and the source code is available, howe
 
 ## Download
 
- - [Download installer for Windows](https://github.com/LiveFlightApp/Connect-Windows/releases/download/1.0.0.0/LiveFlight-Connect-Setup.zip) (press "Run anyway" for SmartScreen and allow on all networks)
+ - [Windows Executable](https://github.com/LiveFlightApp/Connect-Windows/releases/download/1.3.1/LFC-1.3.1.zip) (open  `LiveFlight Connect.exe`)
  - [Mac App Store](https://itunes.apple.com/us/app/liveflight-connect/id1078754162?ls=1&mt=12)
 
 ## Instructions
