@@ -38,4 +38,4 @@ The Windows app and the source code is available, however, no official updates a
     
 4. Where is the macOS version?
 
-Due to compatibility issues, I have removed the macOS version from the Mac App Store.
+    Due to compatibility issues, I have removed the macOS version from the Mac App Store.
