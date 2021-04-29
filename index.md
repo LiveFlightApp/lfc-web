@@ -2,12 +2,11 @@
 
 **As of 26th February 2020, LiveFlight Connect is no longer officially supported.**
 
-The apps are still available for download and the source code is available, however, no official updates are planned, nor will support be provided for any issues.
+The Windows app and the source code is available, however, no official updates are planned, nor will support be provided for any issues.
 
 ## Download
 
  - [Windows Executable](https://github.com/LiveFlightApp/Connect-Windows/releases/download/1.3.1/LFC-1.3.1.zip) (open  `LiveFlight Connect.exe`)
- - [Mac App Store](https://itunes.apple.com/us/app/liveflight-connect/id1078754162?ls=1&mt=12)
 
 ## Instructions
 
@@ -36,3 +35,7 @@ The apps are still available for download and the source code is available, howe
 3. Why was this software deprecated?
  
     LiveFlight Connect was built in 2015 as a side project to test the new Infinite Flight Connect API. After 4 years of supporting the open-source project with no external contributions, unfortunately, I didn't have the time to continually update or provide tech support.
+    
+4. Where is the macOS version?
+
+Due to compatibility issues, I have removed the macOS version from the Mac App Store.
